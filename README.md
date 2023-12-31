@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeaNixOs
 - 👀 I’m interested in Linux, Countries and Languages
-- 🌱 I’m currently Using Pop!_OS maybe switch to NIX
+- 🌱 I’m currently Using Archlinux maybe switch to Nix
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me. you dont.
 
